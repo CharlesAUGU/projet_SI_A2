@@ -15,6 +15,7 @@
                  
                  [org.apache.jclouds.driver/jclouds-sshj "1.7.2"]
                  [ch.qos.logback/logback-classic "1.0.9"]]
+  
   :profiles {:dev
              {:dependencies
               [[com.palletops/pallet "0.8.0-RC.9"
